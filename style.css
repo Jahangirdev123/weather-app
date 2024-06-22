@@ -1,0 +1,16 @@
+.c1{
+    width:100%;
+    margin:auto;
+    border:2px solid gray !important;
+    box-shadow:4px 4px 14px gray !important;
+background: url(./download.jfif);
+    background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+
+}
+.main{width:50%;
+margin:auto;
+
+}
